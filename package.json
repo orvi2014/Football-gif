@@ -1,0 +1,23 @@
+{
+  "name": "football-gif",
+  "version": "1.0.0",
+  "description": "A football visiting place.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orvi2014/Football-gif.git"
+  },
+  "author": "Robat Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orvi2014/Football-gif/issues"
+  },
+  "homepage": "https://github.com/orvi2014/Football-gif#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
